@@ -2,7 +2,7 @@
 
 C++ game in SFML, in which we play the famous ship game known to us from childhood, you can play alone or with another person, having two modes at your disposal, one with bombs and the other without.
 
-## Setup
+## ⚙️ Setup
 
 1. Clone the repository:
     ```bash
